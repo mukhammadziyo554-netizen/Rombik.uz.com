@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc" />
+      <stop offset="100%" stop-color="#e2e8f0" />
+    </linearGradient>
+    <linearGradient id="vase" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#111827" stop-opacity="0.16" />
+      <stop offset="100%" stop-color="#111827" stop-opacity="0.04" />
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="18" />
+    </filter>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)" />
+  <rect x="120" y="120" width="960" height="660" rx="48" fill="#ffffff" stroke="#e5e7eb" />
+  <rect x="220" y="220" width="380" height="480" rx="32" fill="#f8fafc" />
+  <rect x="640" y="260" width="420" height="56" rx="28" fill="#111827" opacity="0.08" />
+  <rect x="640" y="340" width="300" height="42" rx="21" fill="#111827" opacity="0.06" />
+  <rect x="640" y="410" width="220" height="36" rx="18" fill="#111827" opacity="0.05" />
+  <ellipse cx="400" cy="640" rx="150" ry="38" fill="#111827" opacity="0.08" filter="url(#soft)" />
+  <path d="M340 360c0-44 36-80 80-80h30c44 0 80 36 80 80v210c0 44-36 80-80 80h-30c-44 0-80-36-80-80z" fill="url(#vase)" />
+  <path d="M420 260c-20-40 12-82 58-82" stroke="#111827" stroke-opacity="0.18" stroke-width="12" stroke-linecap="round" />
+  <circle cx="500" cy="220" r="26" fill="#111827" opacity="0.14" />
+  <text x="160" y="170" font-family="Inter, Arial, sans-serif" font-size="36" fill="#111827">Decor Essentials</text>
+</svg>

@@ -13,7 +13,7 @@ const translations = {
       home: "Bosh sahifa",
       search: "Mahsulotlarni qidiring",
       cart: "Savat",
-      whatsapp: "WhatsApp",
+      whatsapp: "Telegram",
       addToCart: "Savatga qo'shish",
       quickView: "Tez ko'rish",
       buyNow: "Hozir xarid qilish",
@@ -42,7 +42,7 @@ const translations = {
       promo: "20% gacha chegirma",
       trust: "Bizga ishonish sabablari",
       reviews: "Mijozlar fikri",
-      whatsappCta: "Savolingiz bormi? WhatsApp orqali yozing"
+      whatsappCta: "Savolingiz bormi? Telegram orqali yozing"
     },
     trust: {
       fast: "Tez yetkazib berish",
@@ -52,7 +52,7 @@ const translations = {
     reviews: {
       one: "Sifatli mahsulotlar va tez xizmat!",
       two: "To'shak to'plami juda yumshoq va chiroyli.",
-      three: "WhatsApp orqali tez javob oldim, rahmat!"
+      three: "Telegram orqali tez javob oldim, rahmat!"
     },
     categories: {
       decor: "Uy dekori",
@@ -153,7 +153,7 @@ const translations = {
       home: "Главная",
       search: "Поиск товаров",
       cart: "Корзина",
-      whatsapp: "WhatsApp",
+      whatsapp: "Telegram",
       addToCart: "В корзину",
       quickView: "Быстрый просмотр",
       buyNow: "Купить сейчас",
@@ -182,7 +182,7 @@ const translations = {
       promo: "Скидки до 20%",
       trust: "Почему нам доверяют",
       reviews: "Отзывы клиентов",
-      whatsappCta: "Есть вопрос? Напишите в WhatsApp"
+      whatsappCta: "Есть вопрос? Напишите в Telegram"
     },
     trust: {
       fast: "Быстрая доставка",
@@ -192,7 +192,7 @@ const translations = {
     reviews: {
       one: "Качественные товары и быстрая доставка!",
       two: "Комплект постельного белья очень мягкий.",
-      three: "Ответили в WhatsApp мгновенно, спасибо!"
+      three: "Ответили в Telegram мгновенно, спасибо!"
     },
     categories: {
       decor: "Декор для дома",
